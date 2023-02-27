@@ -16,3 +16,5 @@ node index.js
 ## Créditos
 Este self-bot foi 100% desenvolvido por [robson#0001](https://robsons.xyz)
 
++ Gostaria de comprar um bot personalizado? [entre em nosso servidor do discord](https://discord.gg/frostbytecommunity)
+
